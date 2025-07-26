@@ -7,7 +7,7 @@ This Excel project explores and analyzes sales data from a fictional superstore 
 ## 📁 Project Overview
 
 - **Objective:** Analyze a sales dataset using Excel to generate summary metrics, visual insights, and a simple sales forecast.
-- **Dataset Source:** [Kaggle - Sales Forecasting Dataset]([https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download))
+- **Dataset Source:** [Kaggle - Sales Forecasting Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download))
 - **Tools Used:**  
   Microsoft Excel (Formulas, Pivot Tables, Charts, Forecasting)
 
