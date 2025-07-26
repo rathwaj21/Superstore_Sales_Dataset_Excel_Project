@@ -74,6 +74,12 @@ Download the Excel file and explore:
 
 ---
 
+## 📄 Project Dashboard
+
+[View the Dashboard (PDF)](./Superstore_Sales_Dataset_Excel_Project_Dashboard.pdf)
+
+---
+
 ## 📌 Future Improvements
 
 - Integrate Power Query for more scalable data cleaning  
